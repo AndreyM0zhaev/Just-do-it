@@ -1,0 +1,10 @@
+#!/bin/bash
+cd dir1
+mkdir F1 F2 F3
+cd /f/Group_33/QA/Terminal/
+touch T1.txt T2.txt T3.txt 55.json 77.json
+mkdir Dir11 Dir12 Dir13
+ls -la
+mv T1.txt 55.json /f/Group_33/QA/Terminal/dir1/
+chmod +x ./Script
+
