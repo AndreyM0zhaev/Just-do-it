@@ -1,0 +1,23 @@
+{ "ID": "GH-0001",
+  "Summary": "При нажатии на кнопку 'Зарегистрироваться' на главной странице не открывается форма регистрации",
+  "Project": "Prototype 54",
+  "Component": "web-client",
+  "Version": "1.17.3",
+  "Severity": "major",
+  "Priority": "major",
+  "Status": "testing",
+  "Author": "Andrey_M",
+  "Assigned to": "Andrey_M",
+  "Environment": {
+                    "OS": "Windows 10 Pro v.22H2",
+                    "Browser": "Google Chrome v.110.0.5481.178 х64"
+                    },
+  "Preconditions": "Открыта главная страница",                   
+  "Steps to Reproduce": {
+                           "Step 1": "Нажать кнопку 'Зарегистрироваться'"
+},
+  "Actual result": "Не открылась форма регистрации",
+  "Expected Result": "Открылась форма регистрации",
+  "Attachment": "Screenshot #1"
+}
+
